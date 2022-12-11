@@ -2,8 +2,7 @@
 layout: single
 title: "마크다운 문법 정리"
 categories:
-  - dev
-  - frontend
+  - etc
 tags: [markdown]
 # toc: true
 author_profile: true
