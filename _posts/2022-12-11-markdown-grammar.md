@@ -7,8 +7,8 @@ tags: [markdown]
 # toc: true
 author_profile: true
 # search: false
-# sidebar:
-#   - nav: "docs"
+sidebar:
+  - nav: "docs"
 ---
 - h1 태그는 `# `로 표현
 - 기울임은 언더 바 혹은 별 기호 한 개로 감싸 표현

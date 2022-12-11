@@ -7,8 +7,8 @@ tags: [github]
 # toc: true
 author_profile: true
 # search: false
-# sidebar:
-#   - nav: "docs"
+sidebar:
+  - nav: "docs"
 ---
 - 로컬 서버에서 실행 명령어: bundle exec jekyll serve
 - repository를 private으로 전환하면 방문할 수 없게 된다.
