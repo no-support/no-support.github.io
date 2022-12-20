@@ -2,7 +2,7 @@
 layout: single
 title: "마크다운 문법 정리"
 categories:
-  - etc
+  - git
 tags: [markdown]
 # toc: true
 author_profile: true

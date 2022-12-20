@@ -2,7 +2,7 @@
 layout: single
 title: "jekyll 엔진 기반 깃허브 블로그 특징 정리"
 categories:
-  - etc
+  - git
 tags: [github]
 # toc: true
 author_profile: true
