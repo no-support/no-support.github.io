@@ -20,10 +20,10 @@ main:
 docs:
   - title: "개발"
     children:
-      - title: "기타"
-        url: /categories/#etc/
-  #     - title: "title"
-  #       url: "/url/"
+      - title: "backend"
+        url: "/categories/#backend"
+      - title: "git"
+        url: "/categories/#git"
   - title: "개발 외"
     #   url: //
     # children:

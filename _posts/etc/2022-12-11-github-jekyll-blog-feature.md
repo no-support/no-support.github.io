@@ -4,7 +4,7 @@ title: "jekyll 엔진 기반 깃허브 블로그 특징 정리"
 categories:
   - git
 tags: [github]
-# toc: true
+toc: false
 author_profile: true
 # search: false
 sidebar:
