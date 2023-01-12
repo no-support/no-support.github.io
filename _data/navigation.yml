@@ -18,14 +18,16 @@ main:
   #   url: /sitemap/
 
 docs:
-  - title: "개발"
+  - title: "카테고리"
     children:
-      - title: "backend"
-        url: "/categories/#backend"
       - title: "git"
         url: "/categories/#git"
-  - title: "개발 외"
-    #   url: //
-    # children:
-    #   - title: ""
-    #     url: //
+      - title: "backend"
+        url: "/categories/#backend"
+      - title: "book-review"
+        url: "/categories/#book-review"
+  # - title: "개발 외"
+  #     url: //
+  #   children:
+  #     - title: ""
+  #       url: //
